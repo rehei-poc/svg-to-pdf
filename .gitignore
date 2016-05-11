@@ -1,0 +1,13 @@
+.cache
+.cache-main
+.classpath
+.project
+.directory
+extsrc
+console.devmode.log
+bin/
+target
+project/target
+.settings/
+bin/
+test.pdf
